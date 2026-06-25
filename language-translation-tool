@@ -1,0 +1,8 @@
+language-translation-tool
+│
+├── main.py
+├── requirements.txt
+├── README.md
+├── report.md
+├── .gitignore
+└── screenshots
